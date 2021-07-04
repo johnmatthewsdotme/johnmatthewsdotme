@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. You can visit my English learning website at johnmatthews.me if you need some help. Otherwise, watch me build on Github.
 
 <!--
 **johnmatthewsdotme/johnmatthewsdotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
